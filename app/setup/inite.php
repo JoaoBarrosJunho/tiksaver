@@ -1,0 +1,2 @@
+<?php
+$install_ = false;

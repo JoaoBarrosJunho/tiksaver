@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /login
+Disallow: /api
+Disallow: /panel/*
+
+Sitemap: http://localhost/tk/sitemap.xml
