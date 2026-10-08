@@ -18,9 +18,12 @@ Check with your hosting provider to ensure these dependencies are installed and 
 
 #### 1. Upload the `htdocs` files
 
+
 Upload the contents of the `htdocs` package to your web hosting server.
 
 Choose the appropriate directory where you want the script to be installed.
+
+Run the command `composer update` to install all dependencies.
 
 #### 2. Extract and move the files
 
